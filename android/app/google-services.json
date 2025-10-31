@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "1015690907005",
+    "project_id": "hotelapp-a38e3",
+    "storage_bucket": "hotelapp-a38e3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1015690907005:android:cb04b7a3a35e410acb1014",
+        "android_client_info": {
+          "package_name": "com.example.hotelapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1015690907005-476kij648fbrpolsmloh37hmiliqr9ko.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hotelapp",
+            "certificate_hash": "7aaa579865920d6bd9a69489e1514e65a057bec2"
+          }
+        },
+        {
+          "client_id": "1015690907005-v5dp9rah4qm05t1535ha4s087fn8ngse.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuZbaKmC-FY62JZQLjL4ohJ6o5MERp3tk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1015690907005-v5dp9rah4qm05t1535ha4s087fn8ngse.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1015690907005-8tot4ti2r0nrmneq60vnf2dhi9ac724p.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.hotelapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
